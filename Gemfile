@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem "rspec"
 gem 'sinatra'
-gem "ootokit"
+gem 'ootokit'
 gem "hashie"
 gem "awesome_print"
 
